@@ -94,13 +94,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Fortuna Globaltech Releases Nexus Repository</name>
 	      <url>http://50.17.25.192:8081/repository/fortunaglobaltech/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Fortuna Globaltech Snapshot Nexus Repository </name>
 	      <url>http://50.17.25.192:8081/repository/fortunaglobaltech1/</url>
 	    </snapshotRepository>
 	    
