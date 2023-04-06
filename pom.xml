@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Fortuna Globaltech Releases Nexus Repository</name>
-	      <url>http://http://http://54.226.176.91:8081/repository/tesla_releases/</url>
+	      <url>http://54.226.176.91:8081/repository/tesla_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Fortuna Globaltech Snapshot Nexus Repository </name>
-	      <url>http://http://http://54.226.176.91:8081/repository/tesla_snapshots/</url>
+	      <url>http://54.226.176.91:8081/repository/tesla_snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
