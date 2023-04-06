@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Fortuna Globaltech Releases Nexus Repository</name>
-	      <url>http://50.17.25.192:8081/repository/fortunaglobaltech/</url>
+	      <url>http://http://54.226.176.91:8081/repository/fortunaglobaltech/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Fortuna Globaltech Snapshot Nexus Repository </name>
-	      <url>http://50.17.25.192:8081/repository/fortunaglobaltech1/</url>
+	      <url>http://http://54.226.176.91:8081/repository/fortunaglobaltech1/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
