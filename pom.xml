@@ -100,8 +100,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Fortuna Globaltech Snapshot Nexus Repository </name>
-	      <url>http://54.242.66.109:8081/repository/fortunaglobaltech1/</url>
+	      <name>Fortuna Globaltech Snapshots Nexus Repository</name>
+	      <url>http:http://54.242.66.109:8081/repository/fortunaglobaltech1/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
